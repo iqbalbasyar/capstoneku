@@ -130,7 +130,9 @@ def index():
 
     ## Buatlah sebuah plot yang menampilkan insight di dalam data 
     ____________________________
-    _blablablabla
+   /askldjfhals kjdfas
+   dfa sdkjfhlasd kjdfas lsdjfhal f 
+   ladsjkfhal 
 
     # Tambahkan hasil result plot pada fungsi render_template()
     return render_template('index.html', stats=stats, result=result, result2=result2, result3=result3)
